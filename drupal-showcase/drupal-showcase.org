@@ -1,4 +1,10 @@
-* DRUPAL SHOWCASE 
+* DRUPAL SHOWCASES
+** Sources
+- https://drupalsites.net/categories
+- https://drupalcommerce.org/showcase
+- http://www.drupalprincess.com/
+
+* CURATED DRUPAL SHOWCASES
 ** Drupal 8
 *** Drupal
 - https://www.acensi.fr
