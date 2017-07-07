@@ -1,3 +1,5 @@
+#+OPTIONS: toc:2 
+
 * DRUPAL
 ** DRUPAL WEBSITES
 *** DRUPAL
