@@ -226,24 +226,28 @@
 *** Bitnami
 - Drupal Stack				| https://bitnami.com/stack/drupal
 *** Acquia 
-Acquia Desktop				| https://dev.acquia.com/downloads
+- Acquia Desktop				| https://dev.acquia.com/downloads
+** DRUPAL DEV TOOLS
+*** Drush
+- Drush | http://www.drush.org
+  - Documentation | http://www.drush.org/en/master/
+  - Commands | https://drushcommands.com
+  - Stackexchange https://drupal.stackexchange.com/questions/tagged/drush
+*** Drupal Console
+- Console| https://drupalconsole.com
+  - Console Documentation | https://drupalconsole.com/docs/english
 ** DRUPAL TRAINING 
 *** Online 
 - Drupalize.me				| https://drupalize.me
-- Drupallize.me Blog			| https://drupalize.me/tutorials
+  - Blog			| https://drupalize.me/tutorials
+**** DRUPAL BOOKS
+*** Gitbook
+Drupal Media | https://www.gitbook.com/book/drupal-media/drupal8-guide/details
 ** DRUPAL CAMP
 *** Belgien
-- Drupal Camp Belgien Antwerp | https://drupalcamp.be
-  - Twitter | https://twitter.com/drupalcampbe
+- 2017 September 8-9 - Drupal Camp Belgien Antwerp	| https://drupalcamp.be
+  - Twitter						| https://twitter.com/drupalcampbe
 -----
-** TODO  
-- Drupal Console Documentation | https://drupalconsole.com/docs/english
+** TOOLS  
 - Dropguard Website | https://www.drop-guard.net/
-- Dropguard Drupal Project | https://www.drupal.org/project/dropguard
------
-- Drush | http://www.drush.org
-- Drush Documentation | http://www.drush.org/en/master/
-- Drush Commands | https://drushcommands.com
-- Drush Stackexchange https://drupal.stackexchange.com/questions/tagged/drush
------
-Drupal Media Gitbook https://www.gitbook.com/book/drupal-media/drupal8-guide/details
+  - Project | https://www.drupal.org/project/dropguard
