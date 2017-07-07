@@ -1,253 +1,252 @@
 * DRUPAL
 ** DRUPAL WEBSITES
 *** DRUPAL
-- Drupal				| http://drupal.org
-- Drupal Release Date			| https://drupalreleasedate.com
-- Drupal Cores				| http://drupalcores.com
-- Drupal Events				| https://www.drupical.com
-- Drupal Usability Team			| http://drupalux.org
+- Drupal						| http://drupal.org
+- Drupal Release Date					| https://drupalreleasedate.com
+- Drupal Cores						| http://drupalcores.com
+- Drupal Events						| https://www.drupical.com
+- Drupal Usability Team					| http://drupalux.org
 *** DRUPAL LÄNDER GEMEINSCHAFTEN
 **** ITALIEN
-- Drupal Italia				| http://www.drupalitalia.org
+- Drupal Italia						| http://www.drupalitalia.org
 **** FRANKREICH
-- Drupal France				| http://drupalfr.org
+- Drupal France						| http://drupalfr.org
 **** BELGIEN
-- Belgique				| http://www.drupal.be
+- Belgique						| http://www.drupal.be
 **** SCHWEIZ
-- Schweiz				| http://groups.drupal.org/switzerland
-- Basel					| http://groups.drupal.org/basel-drupal-group
+- Schweiz						| http://groups.drupal.org/switzerland
+- Basel							| http://groups.drupal.org/basel-drupal-group
 **** ÖSTERREICH
-- Drupal Webseite Österreich		| http://www.drupal-austria.at
-- Drupal.org Gruppe Österreich		| http://groups.drupal.org/austria
-- Drupal.org Gruppe Wien		| http://groups.drupal.org/vienna-austria-wien-%C3%B6sterreich
+- Drupal Webseite Österreich				| http://www.drupal-austria.at
+- Drupal.org Gruppe Österreich				| http://groups.drupal.org/austria
+- Drupal.org Gruppe Wien				| http://groups.drupal.org/vienna-austria-wien-%C3%B6sterreich
 **** DEUTSCHLAND 
-- Drupal Germany			| http://www.drupalcenter.de
-- Drupal Developer			| http://www.drupalentwickler.de/drupal-community
-- Drupal Verein				| http://www.drupal-initiative.de
-- Drupal Verein auf Twitter		| https://twitter.com/drupalev
-- Drupal.org Gruppe Deutschland		| http://groups.drupal.org/germany
-- Drupal Splash Awards			| http://www.splashawards.de
+- Drupal Germany					| http://www.drupalcenter.de
+- Drupal Developer					| http://www.drupalentwickler.de/drupal-community
+- Drupal Verein						| http://www.drupal-initiative.de
+- Drupal Verein auf Twitter				| https://twitter.com/drupalev
+- Drupal.org Gruppe Deutschland				| http://groups.drupal.org/germany
+- Drupal Splash Awards					| http://www.splashawards.de
 **** DEUTSCHLAND REGIONAL
-- Bamberg/Nürnberg/Franken		| http://groups.drupal.org/bamberg-n-rnberg
-- Berlin				| http://groups.drupal.org/berlin
-- Berlin				| http://drupalberlin.de/
-- Bodensee				| http://groups.drupal.org/bodensee-lake-constance
-- Bodensee				| http://www.drupal-bodensee.de
-- Düsseldorf				| http://groups.drupal.org/D%C3%BCsseldorf
-- Hamburg/Schleswigholstein		| https://groups.drupal.org/hamburg-schleswigholstein
-- Hannover				| http://groups.drupal.org/hannover
-- Harz					| http://groups.drupal.org/harz
-- Köln/Bonn				| http://groups.drupal.org/koln-bonn
-- Leipzig				| http://groups.drupal.org/node/150534
-- München				| http://groups.drupal.org/m%C3%BCnchen
-- Rhein-Main				| http://groups.drupal.org/rhein-main-gebiet
-- Rhein-Neckar-Kreis			| http://groups.drupal.org/rheinneckarkreis
-- Rheinlandpfalz			| http://groups.drupal.org/rheinlandpfalz
-- Ruhrgebiet				| http://groups.drupal.org/ruhrgebiet
-- Rostock				| http://groups.drupal.org/rostock
-- Stuttgart & Baden-Würtemberg		| http://groups.drupal.org/stuttgart-and-badenw%C3%BCrttemberg-bw
-- Ulmx					| http://groups.drupal.org/ulm-donau
+- Bamberg/Nürnberg/Franken				| http://groups.drupal.org/bamberg-n-rnberg
+- Berlin						| http://groups.drupal.org/berlin
+- Berlin						| http://drupalberlin.de/
+- Bodensee						| http://groups.drupal.org/bodensee-lake-constance
+- Bodensee						| http://www.drupal-bodensee.de
+- Düsseldorf						| http://groups.drupal.org/D%C3%BCsseldorf
+- Hamburg/Schleswigholstein				| https://groups.drupal.org/hamburg-schleswigholstein
+- Hannover						| http://groups.drupal.org/hannover
+- Harz							| http://groups.drupal.org/harz
+- Köln/Bonn						| http://groups.drupal.org/koln-bonn
+- Leipzig						| http://groups.drupal.org/node/150534
+- München						| http://groups.drupal.org/m%C3%BCnchen
+- Rhein-Main						| http://groups.drupal.org/rhein-main-gebiet
+- Rhein-Neckar-Kreis					| http://groups.drupal.org/rheinneckarkreis
+- Rheinlandpfalz					| http://groups.drupal.org/rheinlandpfalz
+- Ruhrgebiet						| http://groups.drupal.org/ruhrgebiet
+- Rostock						| http://groups.drupal.org/rostock
+- Stuttgart & Baden-Würtemberg				| http://groups.drupal.org/stuttgart-and-badenw%C3%BCrttemberg-bw
+- Ulmx							| http://groups.drupal.org/ulm-donau
 ** DRUPAL BLOGS 
 *** FRENCH
-- Colada				| http://www.colada.be
-- Drupalfacile				| http://www.drupalfacile.org
-- Flocondetoile				| http://flocondetoile.fr/blog
-- Happy Culture				| https://www.happyculture.coop/blog
-- Vincent L.				| https://www.vincentliefooghe.net/catégorie/cms
+- Colada						| http://www.colada.be
+- Drupalfacile						| http://www.drupalfacile.org
+- Flocondetoile						| http://flocondetoile.fr/blog
+- Happy Culture						| https://www.happyculture.coop/blog
+- Vincent L.						| https://www.vincentliefooghe.net/catégorie/cms
 *** GERMAN
-- C. Fritsch				| http://www.c-fritsch.de
-- Commpress				| http://comm-press.de/blog
-- Drupal Blog Berlin			| https://drupal-blog-berlin.de
-- Drupal Noob				| http://drupalnoob.de/drupal-8
-- Montviso				| http://www.montviso.de/blog
-- Port 11				| https://www.port11.de/
-- Publicplan				| https://www.publicplan.de/Blog
-- Previon				| http://previon.ch/blog
-- Stefan Korn				| http://techblog.stefan-korn.de
-- Mobilfish				| https://mobilefish.de
+- C. Fritsch						| http://www.c-fritsch.de
+- Commpress						| http://comm-press.de/blog
+- Drupal Blog Berlin					| https://drupal-blog-berlin.de
+- Drupal Noob						| http://drupalnoob.de/drupal-8
+- Montviso						| http://www.montviso.de/blog
+- Port 11						| https://www.port11.de/
+- Publicplan						| https://www.publicplan.de/Blog
+- Previon						| http://previon.ch/blog
+- Stefan Korn						| http://techblog.stefan-korn.de
+- Mobilfish						| https://mobilefish.de
 *** ENGLISH
-- Acidsolutions				| http://www.adcisolutions.com/category/1
-- Acromedia				| https://www.acromediainc.com/blog
-- Agiledrop				| http://www.agiledrop.com/blog
-- Annertech				| http://www.annertech.com/blog
-- Arrrea System				| http://arrea-systems.com/articles
-- Atendesigngroup			| http://atendesigngroup.com/blog
-- Bluespark				| https://www.bluespark.com/blog
-- Cameron and Wilding			| https://www.cameronandwilding.com/blog
-- Capgemini				| https://capgemini.github.io/categories/#Drupal
-- Chapier Three				| https://www.chapterthree.com/blog
-- Codedrop				| https://codedrop.com.au/blog
-- Chocolatilyweb			| http://chocolatelilyweb.ca/blog
-- Danny Englander			| http://dannyenglander.com
-- Devsaran				| http://www.devsaran.com/blog
-- Drew Bolles				| https://www.drewbolles.com/blog
-- Drupalpeople				| http://drupalpeople.com/blog
-- Mydropwizard				| https://www.mydropwizard.com/blog
-- Evolving Web				| https://evolvingweb.ca/blog
-- Falchi				| http://www.faichi.com/blog
-- Foreach				| http://foreach.be/category/tags/drupal
-- Fourkitchens				| https://www.fourkitchens.com/blog
-- Isaacson				| http://blog.isaacsonwebdevelopment.com
-- Ixis					| http://www.ixis.co.uk/blog
-- Kgaut					| https://kgaut.net/journal.html
-- MD Systems				| http://www.md-systems.ch/en/blog/business
-- Matt Glamant				| https://glamanate.com/blog
-- Mil Wood				| http://tim.millwoodonline.co.uk
-- Morten				| http://morten.dk
-- Netstudio				| https://www.netstudio.co.uk/blog
-- Nuvole				| http://nuvole.org/blog
-- OpenLucius				| http://blog.openlucius.com/en
-- Previouvsnext				| https://www.previousnext.com.au/blog
-- Riff					| http://blog.riff.org
-- Valatech				| https://www.valechatech.net/blog
-- Valuebound				| http://valuebound.com/resources/blog
-- Webwash				| https://www.webwash.net/blog
-- Ws Agency				| http://ws.agency/blog
-- FFW					| https://ffwagency.com/digital-strategies-blog
-- iedigital				| https://www.iedigital.co.uk/blog
+- Acidsolutions						| http://www.adcisolutions.com/category/1
+- Acromedia						| https://www.acromediainc.com/blog
+- Agiledrop						| http://www.agiledrop.com/blog
+- Annertech						| http://www.annertech.com/blog
+- Arrrea System						| http://arrea-systems.com/articles
+- Atendesigngroup					| http://atendesigngroup.com/blog
+- Bluespark						| https://www.bluespark.com/blog
+- Cameron and Wilding					| https://www.cameronandwilding.com/blog
+- Capgemini						| https://capgemini.github.io/categories/#Drupal
+- Chapier Three						| https://www.chapterthree.com/blog
+- Codedrop						| https://codedrop.com.au/blog
+- Chocolatilyweb					| http://chocolatelilyweb.ca/blog
+- Danny Englander					| http://dannyenglander.com
+- Devsaran						| http://www.devsaran.com/blog
+- Drew Bolles						| https://www.drewbolles.com/blog
+- Drupalpeople						| http://drupalpeople.com/blog
+- Mydropwizard						| https://www.mydropwizard.com/blog
+- Evolving Web						| https://evolvingweb.ca/blog
+- Falchi						| http://www.faichi.com/blog
+- Foreach						| http://foreach.be/category/tags/drupal
+- Fourkitchens						| https://www.fourkitchens.com/blog
+- Isaacson						| http://blog.isaacsonwebdevelopment.com
+- Ixis							| http://www.ixis.co.uk/blog
+- Kgaut							| https://kgaut.net/journal.html
+- MD Systems						| http://www.md-systems.ch/en/blog/business
+- Matt Glamant						| https://glamanate.com/blog
+- Mil Wood						| http://tim.millwoodonline.co.uk
+- Morten						| http://morten.dk
+- Netstudio						| https://www.netstudio.co.uk/blog
+- Nuvole						| http://nuvole.org/blog
+- OpenLucius						| http://blog.openlucius.com/en
+- Previouvsnext						| https://www.previousnext.com.au/blog
+- Riff							| http://blog.riff.org
+- Valatech						| https://www.valechatech.net/blog
+- Valuebound						| http://valuebound.com/resources/blog
+- Webwash						| https://www.webwash.net/blog
+- Ws Agency						| http://ws.agency/blog
+- FFW							| https://ffwagency.com/digital-strategies-blog
+- iedigital						| https://www.iedigital.co.uk/blog
 
 ** DRUPAL CHANNELS
 *** FACEBOOK
 **** Facebook Suche
-- Search Drupal Groups                  | https://www.facebook.com/search/groups/?q=Drupal
-- Search Drupal Users                   | https://www.facebook.com/search/people/?q=Drupal
+- Search Drupal Groups					| https://www.facebook.com/search/groups/?q=Drupal
+- Search Drupal Users					| https://www.facebook.com/search/people/?q=Drupal
 
 **** Facebook Gruppen
-- Drupal                                | https://www.facebook.com/Drupal-8427738891
-- Inofficial Drupal                     | https://www.facebook.com/groups/DrupalUnofficial
-- Drupal Gruppe Deutschland             | https://www.facebook.com/groups/drupal.8
-- Drupal Gruppe Österreich              | https://www.facebook.com/drupalAT
+- Drupal						| https://www.facebook.com/Drupal-8427738891
+- Inofficial Drupal					| https://www.facebook.com/groups/DrupalUnofficial
+- Drupal Gruppe Deutschland				| https://www.facebook.com/groups/drupal.8
+- Drupal Gruppe Österreich				| https://www.facebook.com/drupalAT
 
 *** GITTER
-- Drupal DACH                           | https://gitter.im/drupal-dach/Lobby
+- Drupal DACH						| https://gitter.im/drupal-dach/Lobby
 
 *** GOOGLE PLUS
-- Drupal Community                      | https://plus.google.com/communities/111161359890617128846
+- Drupal Community					| https://plus.google.com/communities/111161359890617128846
 
 *** SLACK
-- Drupal                                | http://drupal.slack.com
-- Drupal Niederlande                    | http://drupalnl.slack.com
-- Drupal Twig                           | http://drupaltwig.slack.com
-- Drupal Open Restaurant                | http://openrestaurant.slack.com
-- Amazeeio                              | http://amazeeio.slack.com
+- Drupal						| http://drupal.slack.com
+- Drupal Niederlande					| http://drupalnl.slack.com
+- Drupal Twig						| http://drupaltwig.slack.com
+- Drupal Open Restaurant				| http://openrestaurant.slack.com
+- Amazeeio						| http://amazeeio.slack.com
 
 *** MEETUPS
-- Drupal Meetups                        | http://www.meetup.com/fr-FR/topics/drupal/all
-- Drupal Meetups Deutschland            | http://www.meetup.com/de-DE/topics/drupal
-- Drupal Meetups Frankreich             | http://www.meetup.com/fr-FR/topics/drupal
+- Drupal Meetups					| http://www.meetup.com/fr-FR/topics/drupal/all
+- Drupal Meetups Deutschland				| http://www.meetup.com/de-DE/topics/drupal
+- Drupal Meetups Frankreich				| http://www.meetup.com/fr-FR/topics/drupal
 
 *** DROPBUCKET
 **** Drupal
-- Hot                                   | http://dropbucket.org
-- New Snippets                          | http://dropbucket.org/snippets/new
-- Popular this week                     | http://dropbucket.org/snippets/week
-- Popular this month                    | http://dropbucket.org/snippets/month
-- Members                               | http://dropbucket.org/members
+- Hot							| http://dropbucket.org
+- New Snippets						| http://dropbucket.org/snippets/new
+- Popular this week					| http://dropbucket.org/snippets/week
+- Popular this month					| http://dropbucket.org/snippets/month
+- Members						| http://dropbucket.org/members
 
 **** Drupal 8 Snippet
-- Hot                                   | http://dropbucket.org/snippets/drupal-8
-- Popular today                         | http://dropbucket.org/taxonomy/term/5/today
-- Popular this month                    | http://dropbucket.org/taxonomy/term/5/month
+- Hot							| http://dropbucket.org/snippets/drupal-8
+- Popular today						| http://dropbucket.org/taxonomy/term/5/today
+- Popular this month					| http://dropbucket.org/taxonomy/term/5/month
 
 *** STACKEXCHANGE
-- Drupal                                | http://drupal.stackexchange.com
-- Drupal Tags                           | http://drupal.stackexchange.com/tags
-- Drupal Votes                          | http://drupal.stackexchange.com/questions?sort=votes
-- Drupal Unanswered                     | http://drupal.stackexchange.com/questions?sort=unanswered
+- Drupal						| http://drupal.stackexchange.com
+- Drupal Tags						| http://drupal.stackexchange.com/tags
+- Drupal Votes						| http://drupal.stackexchange.com/questions?sort=votes
+- Drupal Unanswered					| http://drupal.stackexchange.com/questions?sort=unanswered
 
 *** QUORA
-- Drupal                                | https://www.quora.com/topic/Drupal-CMS
-- Drupal Answer                         | https://www.quora.com/topic/Drupal-CMS/top_questions
-- Drupal Writers                        | https://www.quora.com/topic/Drupal-CMS/writers
+- Drupal						| https://www.quora.com/topic/Drupal-CMS
+- Drupal Answer						| https://www.quora.com/topic/Drupal-CMS/top_questions
+- Drupal Writers					| https://www.quora.com/topic/Drupal-CMS/writers
 
 *** REDDIT
-- Drupal                                | https://www.reddit.com/r/drupal
-- Drupal New                            | https://www.reddit.com/r/drupal/new
-- Drupal Top                            | https://www.reddit.com/r/drupal/top
+- Drupal						| https://www.reddit.com/r/drupal
+- Drupal New						| https://www.reddit.com/r/drupal/new
+- Drupal Top						| https://www.reddit.com/r/drupal/top
 
 *** MEDIUM
-- Tag Drupal                            | https://medium.com/tag/drupal
-- Tag Drupal-8                          | https://medium.com/tag/drupal-8
+- Tag Drupal						| https://medium.com/tag/drupal
+- Tag Drupal-8						| https://medium.com/tag/drupal-8
 
 *** TWITTER
 **** DRUPAL 8
-- Drupal 8 Contrib.			| https://twitter.com/drupal8contrib
-- Drupal Modules			| https://twitter.com/drupal_modules
-- Drupal Security			| https://twitter.com/drupalsecurity
+- Drupal 8 Contrib.					| https://twitter.com/drupal8contrib
+- Drupal Modules					| https://twitter.com/drupal_modules
+- Drupal Security					| https://twitter.com/drupalsecurity
 **** ENGLISCH
-- Twitter Liste				| https://twitter.com/patrickschanen/lists/drupal-en
-- Dougvann				| https://mobile.twitter.com/dougvann
-- Lullabot				| https://twitter.com/lullabot
-- Karoly Négyesi			| https://twitter.com/chx
-- Brick Factory				| https://twitter.com/BrickFactory
-- MD Systems Schweiz			| https://twitter.com/MDSystems_CH
-- Agile Drop				| https://twitter.com/agiledrop
-- Vardot				| https://twitter.com/vardot
-- Open Concept				| https://twitter.com/openconcept_ca
+- Twitter Liste						| https://twitter.com/patrickschanen/lists/drupal-en
+- Dougvann						| https://mobile.twitter.com/dougvann
+- Lullabot						| https://twitter.com/lullabot
+- Karoly Négyesi					| https://twitter.com/chx
+- Brick Factory						| https://twitter.com/BrickFactory
+- MD Systems Schweiz					| https://twitter.com/MDSystems_CH
+- Agile Drop						| https://twitter.com/agiledrop
+- Vardot						| https://twitter.com/vardot
+- Open Concept						| https://twitter.com/openconcept_ca
 **** FRANZÖSICH
-- Twitter Liste				| https://twitter.com/patrickschanen/lists/drupal-fr
-- Simon Georges				| https://twitter.com/simongeorges
-- Julien Dubois				| https://twitter.com/Artusamak
-- Christophe Dugué			| https://twitter.com/chdugue
-- Léon Cros				| https://twitter.com/chipway
+- Twitter Liste						| https://twitter.com/patrickschanen/lists/drupal-fr
+- Simon Georges						| https://twitter.com/simongeorges
+- Julien Dubois						| https://twitter.com/Artusamak
+- Christophe Dugué					| https://twitter.com/chdugue
+- Léon Cros						| https://twitter.com/chipway
 **** DEUTSCH
-- degov					| https://twitter.com/Drupal_deGov
-- 1xInternet				| https://twitter.com/1xINTERNET
-- Publicplan				| https://twitter.com/publicplan_GmbH
-- Zebralog				| https://twitter.com/zebralog
-- Lara Knebel				| https://twitter.com/LKnebel19
-- UndPaul				| https://twitter.com/undpaul
-- Erdfisch				| https://twitter.com/erdfisch
-- Steffan R.				| https://twitter.com/_SteffenR
-- Anja Schirwinski			| https://twitter.com/aschiwi
-- Ronald Krentz				| https://twitter.com/rokr
-- Da Wehner				| https://twitter.com/da_wehner
-- Alexander Bogomolov			| https://twitter.com/abogomolov
-- Holger Weichenberg			| https://twitter.com/gnuschichten
-- Nodgard				| https://twitter.com/nodegard_com
-- Carsten Logemann			| https://twitter.com/C_Logemann
+- degov							| https://twitter.com/Drupal_deGov
+- 1xInternet						| https://twitter.com/1xINTERNET
+- Publicplan						| https://twitter.com/publicplan_GmbH
+- Zebralog						| https://twitter.com/zebralog
+- Lara Knebel						| https://twitter.com/LKnebel19
+- UndPaul						| https://twitter.com/undpaul
+- Erdfisch						| https://twitter.com/erdfisch
+- Steffan R.						| https://twitter.com/_SteffenR
+- Anja Schirwinski					| https://twitter.com/aschiwi
+- Ronald Krentz						| https://twitter.com/rokr
+- Da Wehner						| https://twitter.com/da_wehner
+- Alexander Bogomolov					| https://twitter.com/abogomolov
+- Holger Weichenberg					| https://twitter.com/gnuschichten
+- Nodgard						| https://twitter.com/nodegard_com
+- Carsten Logemann					| https://twitter.com/C_Logemann
 ** DRUPAL HOSTING
 *** HOSTING
-- Webhosting Franken			| https://www.webhosting-franken.de/apps/cms/drupal-hosting
-- Freistilbox				| http://www.freistilbox.com
-- Pantheon				| https://pantheon.io
-- Omega8				| https://omega8.cc
-- Platform.sh				| https://platform.sh
-- Acquia				| https://www.acquia.com/de/produkte-dienste/acquia-cloud
+- Webhosting Franken					| https://www.webhosting-franken.de/apps/cms/drupal-hosting
+- Freistilbox						| http://www.freistilbox.com
+- Pantheon						| https://pantheon.io
+- Omega8						| https://omega8.cc
+- Platform.sh						| https://platform.sh
+- Acquia						| https://www.acquia.com/de/produkte-dienste/acquia-cloud
 *** HOSTING ARTICLES
 - [[https://www.quora.com/GetPantheon-vs-Omega8-vs-Acquia-pros-and-cons-of-each][GetPantheon vs. Omega8 vs. Acquia - pros and cons of each?]] 
-
 ** DRUPAL LOCAL
 *** Docker
-- Docker for Drupal			| https://github.com/wodby/docker4drupal
-- Docker for Drupal Documentation	| https://bitnami.com/stack/drupal
+- Docker for Drupal					| https://github.com/wodby/docker4drupal
+  - Documentation			| https://bitnami.com/stack/drupal
 *** Vagrant
-- Drupalvm				| https://www.drupalvm.com/
+- Drupalvm						| https://www.drupalvm.com/
 *** Bitnami
-- Drupal Stack				| https://bitnami.com/stack/drupal
+- Drupal Stack						| https://bitnami.com/stack/drupal
 *** Acquia 
-- Acquia Desktop				| https://dev.acquia.com/downloads
+- Acquia Desktop					| https://dev.acquia.com/downloads
 ** DRUPAL DEV TOOLS
 *** Drush
-- Drush | http://www.drush.org
-  - Documentation | http://www.drush.org/en/master/
-  - Commands | https://drushcommands.com
-  - Stackexchange https://drupal.stackexchange.com/questions/tagged/drush
+- Drush							| http://www.drush.org
+  - Documentation					| http://www.drush.org/en/master/
+  - Commands						| https://drushcommands.com
+  - Stackexchange					| https://drupal.stackexchange.com/questions/tagged/drush
 *** Drupal Console
-- Console| https://drupalconsole.com
-  - Console Documentation | https://drupalconsole.com/docs/english
+- Console						| https://drupalconsole.com
+  - Documentation	         			| https://drupalconsole.com/docs/english
 ** DRUPAL TRAINING 
 *** Online 
-- Drupalize.me				| https://drupalize.me
-  - Blog			| https://drupalize.me/tutorials
-**** DRUPAL BOOKS
-*** Gitbook
-Drupal Media | https://www.gitbook.com/book/drupal-media/drupal8-guide/details
+- Drupalize.me						| https://drupalize.me
+  - Blog						| https://drupalize.me/tutorials
+*** DRUPAL BOOKS
+** Gitbook
+Drupal Media						| https://www.gitbook.com/book/drupal-media/drupal8-guide/details
 ** DRUPAL CAMP
 *** Belgien
 - 2017 September 8-9 - Drupal Camp Belgien Antwerp	| https://drupalcamp.be
   - Twitter						| https://twitter.com/drupalcampbe
 -----
 ** TOOLS  
-- Dropguard Website | https://www.drop-guard.net/
-  - Project | https://www.drupal.org/project/dropguard
+- Dropguard Website					| https://www.drop-guard.net/
+  - Project						| https://www.drupal.org/project/dropguard
