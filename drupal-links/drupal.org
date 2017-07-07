@@ -239,8 +239,8 @@
 *** Online 
 - Drupalize.me						| https://drupalize.me
   - Blog						| https://drupalize.me/tutorials
-*** DRUPAL BOOKS
-** Gitbook
+** DRUPAL BOOKS
+*** Gitbook
 Drupal Media						| https://www.gitbook.com/book/drupal-media/drupal8-guide/details
 ** DRUPAL CAMP
 *** Belgien
