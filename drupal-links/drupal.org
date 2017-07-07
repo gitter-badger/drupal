@@ -248,7 +248,6 @@ Drupal Media						| https://www.gitbook.com/book/drupal-media/drupal8-guide/deta
 *** Belgien
 - 2017 September 8-9 - Drupal Camp Belgien Antwerp	| https://drupalcamp.be
   - Twitter						| https://twitter.com/drupalcampbe
------
 ** TOOLS  
 - Dropguard Website					| https://www.drop-guard.net/
   - Project						| https://www.drupal.org/project/dropguard
@@ -256,3 +255,5 @@ Drupal Media						| https://www.gitbook.com/book/drupal-media/drupal8-guide/deta
 - https://github.com/psnc/drupal/blob/master/drupal-showcase/drupal-showcase.org
 ** DRUPAL DISTRIBUTIONS
 - https://github.com/psnc/drupal/blob/master/drupal-distributions/drupal-distributions.org
+** DRUPAL MODULES
+- https://github.com/psnc/drupal/blob/master/drupal-distributions/drupal-modules.org
