@@ -252,3 +252,7 @@ Drupal Media						| https://www.gitbook.com/book/drupal-media/drupal8-guide/deta
 ** TOOLS  
 - Dropguard Website					| https://www.drop-guard.net/
   - Project						| https://www.drupal.org/project/dropguard
+** DRUPAL SHOWCASE
+- https://github.com/psnc/drupal/blob/master/drupal-showcase/drupal-showcase.org
+** DRUPAL DISTRIBUTIONS
+- https://github.com/psnc/drupal/blob/master/drupal-distributions/drupal-distributions.org
