@@ -2,18 +2,21 @@
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#orgc55c156">1. DRUPAL</a>
+<li><a href="#orgcc0c50f">1. DRUPAL</a>
 <ul>
-<li><a href="#orgc16e530">1.1. DRUPAL WEBSITES</a></li>
-<li><a href="#orgb1feaf6">1.2. DRUPAL BLOGS</a></li>
-<li><a href="#org67295ed">1.3. DRUPAL CHANNELS</a></li>
-<li><a href="#org83d14f3">1.4. DRUPAL HOSTING</a></li>
-<li><a href="#orgac4a4ee">1.5. DRUPAL LOCAL</a></li>
-<li><a href="#org8568a3b">1.6. DRUPAL DEV TOOLS</a></li>
-<li><a href="#orgbc77aeb">1.7. DRUPAL TRAINING</a></li>
-<li><a href="#orgb9d2992">1.8. DRUPAL BOOKS</a></li>
-<li><a href="#orgcfc1841">1.9. DRUPAL CAMP</a></li>
-<li><a href="#org4b61b0e">1.10. TOOLS</a></li>
+<li><a href="#org572ca45">1.1. DRUPAL WEBSITES</a></li>
+<li><a href="#orgbb69544">1.2. DRUPAL BLOGS</a></li>
+<li><a href="#org731d076">1.3. DRUPAL CHANNELS</a></li>
+<li><a href="#orgb59b663">1.4. DRUPAL HOSTING</a></li>
+<li><a href="#orgeedf094">1.5. DRUPAL LOCAL</a></li>
+<li><a href="#org6c4d16f">1.6. DRUPAL DEV TOOLS</a></li>
+<li><a href="#org90d7354">1.7. DRUPAL TRAINING</a></li>
+<li><a href="#org7cf3dc8">1.8. DRUPAL BOOKS</a></li>
+<li><a href="#org153f11f">1.9. DRUPAL CAMP</a></li>
+<li><a href="#orgdfa4b1a">1.10. TOOLS</a></li>
+<li><a href="#org03a9dd4">1.11. DRUPAL SHOWCASE</a></li>
+<li><a href="#orgc09f315">1.12. DRUPAL DISTRIBUTIONS</a></li>
+<li><a href="#orgab73075">1.13. DRUPAL MODULES</a></li>
 </ul>
 </li>
 </ul>
@@ -21,17 +24,17 @@
 </div>
 
 
-<a id="orgc55c156"></a>
+<a id="orgcc0c50f"></a>
 
 # DRUPAL
 
 
-<a id="orgc16e530"></a>
+<a id="org572ca45"></a>
 
 ## DRUPAL WEBSITES
 
 
-<a id="orgab9ebec"></a>
+<a id="org45e7b44"></a>
 
 ### DRUPAL
 
@@ -42,7 +45,7 @@
 -   Drupal Usability Team					| <http://drupalux.org>
 
 
-<a id="org19bdf08"></a>
+<a id="org2ae2977"></a>
 
 ### DRUPAL LÄNDER GEMEINSCHAFTEN
 
@@ -101,12 +104,12 @@
     -   Ulmx							| <http://groups.drupal.org/ulm-donau>
 
 
-<a id="orgb1feaf6"></a>
+<a id="orgbb69544"></a>
 
 ## DRUPAL BLOGS
 
 
-<a id="org59b4206"></a>
+<a id="orgc374b02"></a>
 
 ### FRENCH
 
@@ -117,7 +120,7 @@
 -   Vincent L.						| <https://www.vincentliefooghe.net/catégorie/cms>
 
 
-<a id="org4dfb2b0"></a>
+<a id="orgc8ea501"></a>
 
 ### GERMAN
 
@@ -133,7 +136,7 @@
 -   Mobilfish						| <https://mobilefish.de>
 
 
-<a id="org7f75a6d"></a>
+<a id="org8f7bbbb"></a>
 
 ### ENGLISH
 
@@ -178,12 +181,12 @@
 -   iedigital						| <https://www.iedigital.co.uk/blog>
 
 
-<a id="org67295ed"></a>
+<a id="org731d076"></a>
 
 ## DRUPAL CHANNELS
 
 
-<a id="orgbe7d66d"></a>
+<a id="org1367d3c"></a>
 
 ### FACEBOOK
 
@@ -200,21 +203,21 @@
     -   Drupal Gruppe Österreich				| <https://www.facebook.com/drupalAT>
 
 
-<a id="orgc44ba74"></a>
+<a id="org8f04d52"></a>
 
 ### GITTER
 
 -   Drupal DACH						| <https://gitter.im/drupal-dach/Lobby>
 
 
-<a id="org3e0e0b8"></a>
+<a id="org93f07d2"></a>
 
 ### GOOGLE PLUS
 
 -   Drupal Community					| <https://plus.google.com/communities/111161359890617128846>
 
 
-<a id="org81f60c2"></a>
+<a id="org98f611a"></a>
 
 ### SLACK
 
@@ -225,7 +228,7 @@
 -   Amazeeio						| <http://amazeeio.slack.com>
 
 
-<a id="org4e56bcd"></a>
+<a id="orgd44fffb"></a>
 
 ### MEETUPS
 
@@ -234,7 +237,7 @@
 -   Drupal Meetups Frankreich				| <http://www.meetup.com/fr-FR/topics/drupal>
 
 
-<a id="orgdfc6eae"></a>
+<a id="orgf3cd6e0"></a>
 
 ### DROPBUCKET
 
@@ -253,7 +256,7 @@
     -   Popular this month					| <http://dropbucket.org/taxonomy/term/5/month>
 
 
-<a id="orgc1b884d"></a>
+<a id="orgd2a4b35"></a>
 
 ### STACKEXCHANGE
 
@@ -263,7 +266,7 @@
 -   Drupal Unanswered					| <http://drupal.stackexchange.com/questions?sort=unanswered>
 
 
-<a id="orgf08f057"></a>
+<a id="orgcac4c72"></a>
 
 ### QUORA
 
@@ -272,7 +275,7 @@
 -   Drupal Writers					| <https://www.quora.com/topic/Drupal-CMS/writers>
 
 
-<a id="org7235e57"></a>
+<a id="orgc2953f6"></a>
 
 ### REDDIT
 
@@ -281,7 +284,7 @@
 -   Drupal Top						| <https://www.reddit.com/r/drupal/top>
 
 
-<a id="orge9025eb"></a>
+<a id="org16b7e28"></a>
 
 ### MEDIUM
 
@@ -289,7 +292,7 @@
 -   Tag Drupal-8						| <https://medium.com/tag/drupal-8>
 
 
-<a id="org80c91b4"></a>
+<a id="org114e20e"></a>
 
 ### TWITTER
 
@@ -338,12 +341,12 @@
     -   Carsten Logemann					| <https://twitter.com/C_Logemann>
 
 
-<a id="org83d14f3"></a>
+<a id="orgb59b663"></a>
 
 ## DRUPAL HOSTING
 
 
-<a id="org50057b9"></a>
+<a id="org749c6b7"></a>
 
 ### HOSTING
 
@@ -355,19 +358,19 @@
 -   Acquia						| <https://www.acquia.com/de/produkte-dienste/acquia-cloud>
 
 
-<a id="orge595e7b"></a>
+<a id="orgf1d93de"></a>
 
 ### HOSTING ARTICLES
 
 -   [GetPantheon vs. Omega8 vs. Acquia - pros and cons of each?](https://www.quora.com/GetPantheon-vs-Omega8-vs-Acquia-pros-and-cons-of-each)
 
 
-<a id="orgac4a4ee"></a>
+<a id="orgeedf094"></a>
 
 ## DRUPAL LOCAL
 
 
-<a id="org5c5f495"></a>
+<a id="org7d49bc6"></a>
 
 ### Docker
 
@@ -375,33 +378,33 @@
     -   Documentation			| <https://bitnami.com/stack/drupal>
 
 
-<a id="orgcec025f"></a>
+<a id="orgee2a232"></a>
 
 ### Vagrant
 
 -   Drupalvm						| <https://www.drupalvm.com/>
 
 
-<a id="org21ddb1a"></a>
+<a id="orgab3d8d6"></a>
 
 ### Bitnami
 
 -   Drupal Stack						| <https://bitnami.com/stack/drupal>
 
 
-<a id="org0f25ef4"></a>
+<a id="org025e662"></a>
 
 ### Acquia
 
 -   Acquia Desktop					| <https://dev.acquia.com/downloads>
 
 
-<a id="org8568a3b"></a>
+<a id="org6c4d16f"></a>
 
 ## DRUPAL DEV TOOLS
 
 
-<a id="org01d7b30"></a>
+<a id="org94bd691"></a>
 
 ### Drush
 
@@ -411,7 +414,7 @@
     -   Stackexchange					| <https://drupal.stackexchange.com/questions/tagged/drush>
 
 
-<a id="orge6f6598"></a>
+<a id="org62d173e"></a>
 
 ### Drupal Console
 
@@ -419,12 +422,12 @@
     -   Documentation	         			| <https://drupalconsole.com/docs/english>
 
 
-<a id="orgbc77aeb"></a>
+<a id="org90d7354"></a>
 
 ## DRUPAL TRAINING
 
 
-<a id="orga69021b"></a>
+<a id="org5033647"></a>
 
 ### Online
 
@@ -432,37 +435,56 @@
     -   Blog						| <https://drupalize.me/tutorials>
 
 
-<a id="orgb9d2992"></a>
+<a id="org7cf3dc8"></a>
 
 ## DRUPAL BOOKS
 
 
-<a id="org4e38e9c"></a>
+<a id="org2d1acf3"></a>
 
 ### Gitbook
 
 Drupal Media						| <https://www.gitbook.com/book/drupal-media/drupal8-guide/details>
 
 
-<a id="orgcfc1841"></a>
+<a id="org153f11f"></a>
 
 ## DRUPAL CAMP
 
 
-<a id="orge78920a"></a>
+<a id="orgd0f342f"></a>
 
 ### Belgien
 
 -   2017 September 8-9 - Drupal Camp Belgien Antwerp	| <https://drupalcamp.be>
     -   Twitter						| <https://twitter.com/drupalcampbe>
 
----
 
-
-<a id="org4b61b0e"></a>
+<a id="orgdfa4b1a"></a>
 
 ## TOOLS
 
 -   Dropguard Website					| <https://www.drop-guard.net/>
     -   Project						| <https://www.drupal.org/project/dropguard>
+
+
+<a id="org03a9dd4"></a>
+
+## DRUPAL SHOWCASE
+
+-   <https://github.com/psnc/drupal/blob/master/drupal-showcase/drupal-showcase.org>
+
+
+<a id="orgc09f315"></a>
+
+## DRUPAL DISTRIBUTIONS
+
+-   <https://github.com/psnc/drupal/blob/master/drupal-distributions/drupal-distributions.org>
+
+
+<a id="orgab73075"></a>
+
+## DRUPAL MODULES
+
+-   <https://github.com/psnc/drupal/blob/master/drupal-distributions/drupal-modules.org>
 
