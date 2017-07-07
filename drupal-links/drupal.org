@@ -231,9 +231,12 @@ Acquia Desktop				| https://dev.acquia.com/downloads
 *** Online 
 - Drupalize.me				| https://drupalize.me
 - Drupallize.me Blog			| https://drupalize.me/tutorials
+** DRUPAL CAMP
+*** Belgien
+- Drupal Camp Belgien Antwerp https://drupalcamp.be
+-----
 ** TODO  
 - Drupal Console Documentation | https://drupalconsole.com/docs/english
------
 - Dropguard Website | https://www.drop-guard.net/
 - Dropguard Drupal Project | https://www.drupal.org/project/dropguard
 -----
