@@ -1,0 +1,55 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Jul 22 15:54:20 2017
+;; Desktop file format version 208
+;; Emacs version 25.2.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22899 22796 313615 339000) (desktop . "208") "patrick@lp" nil nil ((((font-backend xft x) (font . "-unknown-DejaVu Sans Mono-normal-normal-normal-*-15-*-*-*-m-0-iso10646-1") (font-parameter . "Monospace 11") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#31363b") (background-color . "#fcfcfc") (mouse-color . "#31363b") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground . "#31363b") (scroll-bar-background . "#31363b") (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen . fullboth) (display-type . color) (background-mode . light) (cursor-color . "#31363b") (sticky) (environment) (frameset--id . "9DEC-D24E-0D71-5105") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (visibility . t) (height . 58) (width . 211) (left . 0) (top . 0)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 8) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 72) (min-pixel-width . 180) (min-pixel-height-ignore . 36) (min-pixel-width-ignore . 72) (min-pixel-height-safe . 18) (min-pixel-width-safe . 36)) hc (pixel-width . 1920) (pixel-height . 1033) (total-width . 213) (total-height . 57) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 954) (pixel-height . 1033) (total-width . 106) (total-height . 57) (normal-height . 1.0) (normal-width . 0.49687499999999996) (buffer "drupal-links.org" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 11078) (start . 1))) (leaf (last . t) (pixel-width . 966) (pixel-height . 1033) (total-width . 107) (total-height . 57) (normal-height . 1.0) (normal-width . 0.503125) (buffer "drupal-modules.org" (selected) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 911) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/orgmode/drupal/" "~/orgmode/drupal/drupal-modules.org" "~/orgmode/drupal/drupal-links.org" "~/orgmode/drupal/drupal-distributions.html" "~/orgmode/drupal/drupal-distributions.org" "~/orgmode/drupal/drupal-showcase.org" "~/orgmode/drupal/drupal-videos.org" "~/orgmode/drupal/drupal-showcase.html" "~/.emacs.d/eshell/alias" "~/.elfeed/index" "~/.emacs.d/elfeed.org" "~/orgmode/emacs/emacs-links.html" "~/orgmode/emacs/emacs-links.org" "~/.emacs.d/elpa/web-mode-20170709.922/web-mode-autoloads.el" "~/.emacs.d/elpa/cheat-sh-20170707.757/cheat-sh-autoloads.el" "~/.emacs.d/elpa/evil-mc-20170716.1806/evil-mc-autoloads.el" "~/Schreibtisch/konsole-w.txt" "~/orgmode/emacs/emacs-packages-installed.org" "~/.html" "~/.emacs.d/elpa/solarized-theme-1.2.2/solarized-theme-autoloads.el" "~/.emacs.d/elpa/solarized-theme-1.2.2/solarized-theme-pkg.el"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/patrick/orgmode/drupal/drupal-links.org"
+  "drupal-links.org"
+  'org-mode
+  '(override-global-mode undo-tree-mode auto-complete-mode)
+  11078
+  '(11385 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((mark-ring (10693 11133 10629 10247 10247 2510 36 54 11250))))
+
+(desktop-create-buffer 208
+  "/home/patrick/orgmode/drupal/drupal-modules.org"
+  "drupal-modules.org"
+  'org-mode
+  '(override-global-mode undo-tree-mode auto-complete-mode)
+  911
+  '(911 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "drupal"
+  'dired-mode
+  '(override-global-mode undo-tree-mode)
+  616
+  '(616 nil)
+  t
+  '("/home/patrick/orgmode/drupal/")
+  '((overwrite-mode))
+  '((mark-ring nil)))
+
