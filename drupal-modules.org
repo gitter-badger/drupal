@@ -1,4 +1,11 @@
-| Module              | Project                                            | -                                   | - | - |
+#+OPTIONS: toc:2 
+#+CREATOR: Patrick Schanen
+#+EMAIL: patrick.schanen@gmail.com
+#+TAGS: Drupal 
+
+* Drupal Module
+
+| Module              | Project                                            | Github                              | - | - |
 |---------------------+----------------------------------------------------+-------------------------------------+---+---|
 | block exclude pages | https://www.drupal.org/project/block_exclude_pages |                                     |   |   |
 | smart trim          | https://www.drupal.org/project/smart_trim          |                                     |   |   |

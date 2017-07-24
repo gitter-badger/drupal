@@ -1,5 +1,10 @@
+#+OPTIONS: toc:2 
+#+CREATOR: Patrick Schanen
+#+EMAIL: patrick.schanen@gmail.com
+#+TAGS: Drupal 
+
 * DRUPAL SHOWCASES
-** Source  
+** SOURCE  
 /Portale welche Drupal Webseiten und Portale auflisten./
 - https://drupalsites.net/categories
 - https://drupalcommerce.org/showcase

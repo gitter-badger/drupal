@@ -1,3 +1,8 @@
+#+OPTIONS: toc:2 
+#+CREATOR: Patrick Schanen
+#+EMAIL: patrick.schanen@gmail.com
+#+TAGS: Drupal 
+
 * DRUPAL DISTRIBUTIONS
 
 ** DRUPAL 8 DISTRIBUTIONS ON DRUPAL.ORG
@@ -7,7 +12,7 @@
 
 ** DRUPAL 8 DISTRIBUTIONS
 *** COMMERCE
-/Drupal Commerce is used to build eCommerce websites and applications of all sizes./
+/*Drupal Commerce is used to build eCommerce websites and applications of all sizes.*/
 **** Commerce
 - Website		| https://drupalcommerce.org
 - Modules		| https://drupalcommerce.org/extensions/module
@@ -25,7 +30,7 @@
 - Facebook		| https://www.facebook.com/commerceguys
 - Twitter		| https://twitter.com/drupalcommerce
 *** PANAPOLY
-/The distribution is designed to be both a general foundation for site building and a base framework upon which to build other Drupal distributions./
+/*The distribution is designed to be both a general foundation for site building and a base framework upon which to build other Drupal distributions.*/
 **** Drupal
 - Project               | https://www.drupal.org/project/panopoly
 **** Cgit
@@ -37,8 +42,8 @@
 - Github Graphs         |
 **** Social
 - Twitter               |
-***  OPEN Y
-/The Open Y platform is a content management system that uses Drupal 8 functionality and useful modules from YMCAs and digital partners./
+*** OPEN Y
+/*The Open Y platform is a content management system that uses Drupal 8 functionality and useful modules from YMCAs and digital partners.*/
 **** Open Y
 - Website               | http://www.openymca.org
 - Demo                  | http://sandbox.openymca.org
@@ -52,7 +57,7 @@
 - Twitter		|
 - Facebook		|
 *** VARBASE
-/All the modules, features, configurations that we include in every project./
+/*All the modules, features, configurations that we include in every project.*/
 **** Varbase
 - Support     | https://www.vardot.com
 - Documentation | https://docs.varbase.vardot.com
@@ -84,7 +89,7 @@ composer create-project Vardot/varbase-build:8.x PROJECT_DIR_NAME --stability de
      #+END_SRC
 
 *** THUNDER
-/Thunder is a Drupal 8 distribution for professional publishers./
+/*Thunder is a Drupal 8 distribution for professional publishers.*/
 **** Thunder
 - Website               | http://www.thunder.org
 - Demo                  | http://www.thunderdemo.com
@@ -102,7 +107,7 @@ composer create-project Vardot/varbase-build:8.x PROJECT_DIR_NAME --stability de
 - Twitter               | https://twitter.com/ThunderCoreTeam
 - Slack                 | http://www.thunder.org/slack
 *** DEGOV
-/Drupal 8 distribution focussing on the needs of (German) governmental organisations./
+/*Drupal 8 distribution focussing on the needs of (German) governmental organisations.*/
 **** Degov
 - Website               | https://www.degov.org ( Jimdo )
 **** Drupal
@@ -116,7 +121,7 @@ composer create-project Vardot/varbase-build:8.x PROJECT_DIR_NAME --stability de
 - Twitter               |
 - Facebook		|
 *** OPEN LUCIUS
-/OpenLucius is a work management platform for social communication, -documentation -and projects./
+/*OpenLucius is a work management platform for social communication, -documentation -and projects.*/
 **** Open Lucius
 - 
 **** Drupal
@@ -129,7 +134,7 @@ composer create-project Vardot/varbase-build:8.x PROJECT_DIR_NAME --stability de
 - Twitter
 - Facebook		| 
 *** OPEN SOCIAL
-/Open Social is a distribution for building social communities and intranets. The distribution is positioned as the successor of Drupal Commons, taking full advantage of the new possibilities of Drupal 8./
+/*Open Social is a distribution for building social communities and intranets. The distribution is positioned as the successor of Drupal Commons, taking full advantage of the new possibilities of Drupal 8.*/
 **** Open Social
 - 
 **** Drupal
@@ -192,7 +197,7 @@ composer create-project Vardot/varbase-build:8.x PROJECT_DIR_NAME --stability de
 - Twitter               |
 - Facebook              |
 *** OPEN RESTAURANT
-/The Open Restaurant distribution has everything you need to build your restaurant website. It comes with a menu management system, support for multiple languages and translation, a customizable blog, events management, locations and a responsive theme./
+/*The Open Restaurant distribution has everything you need to build your restaurant website. It comes with a menu management system, support for multiple languages and translation, a customizable blog, events management, locations and a responsive theme.*/
 **** Open Restaurant
 - Website               | http://www.open.restaurant
 - Demo                  | http://dev-cafe-demo.pantheonsite.io
@@ -210,8 +215,7 @@ composer create-project Vardot/varbase-build:8.x PROJECT_DIR_NAME --stability de
 - Facebook		|
 - Slack			| https://docs.google.com/forms/d/e/1FAIpQLScOZZl1vNrzxjazyLAw84aajsojs-0mQIckdmEukCxtcnv-FA/viewform?c=0&w=1
 *** OPINGO LMS
-/Opigno is an Open Source e-learning platform based on Drupal that allows  you to manage your online trainings, and efficiently ensure that student, employee and partner skills remain up to date.
-Opigno LMS is designed for Companies, Corporations and Universities, looking for an e-learning solution that is flexible and is easily scalable./
+/*Opigno is an Open Source e-learning platform based on Drupal that allows  you to manage your online trainings, and efficiently ensure that student, employee and partner skills remain up to date .*/
 **** Opingo
 - Website               | https://www.opigno.org/en
 - Blog                  | https://www.opigno.org/en/blog
@@ -235,7 +239,7 @@ Opigno LMS is designed for Companies, Corporations and Universities, looking for
 - Facebook		|
 - Youtube               | https://www.youtube.com/user/opignolms
 *** CIVIHR
-/CiviHR is an integrated Human Resource Management application designed to meet the needs of non-profit and third sector organizations./
+/*CiviHR is an integrated Human Resource Management application designed to meet the needs of non-profit and third sector organizations.*/
 **** CiviHR
 - Website               | https://civihr.org
 - Blog                  | https://civihr.org/blog
