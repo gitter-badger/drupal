@@ -5,18 +5,19 @@
 
 * DRUPAL SHOWCASES
 ** SOURCE  
-/Portale welche Drupal Webseiten und Portale auflisten./
+/*Portale welche Drupal Webseiten und Portale auflisten*/
 - https://drupalsites.net/categories
 - https://drupalcommerce.org/showcase
 - http://www.drupalprincess.com/
 - https://www.awwwards.com/websites/drupal
 ** CURATED DRUPAL SHOWCASES
-/Drupal Webseiten und Portale zum Vorzeigen./
+/*Drupal Webseiten und Portale zum Vorzeigen*/
 *** Drupal
 - https://www.acensi.fr
 - https://www.foundry.com
 - https://www.ccomptes.fr
 - https://www.arsenal.com
+- http://www.prestahop.fr
 *** Drupal Commerce
 - https://www.orlowatches.com
 - https://www.goodway.com

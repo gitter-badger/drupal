@@ -6,14 +6,14 @@
 * DRUPAL
 ** DRUPAL WEBSITES
 *** DRUPAL
-/*Drupal Portale und Webseiten für Drupal.*/
+/*Drupal Portale und Webseiten für Drupal*/
 - Drupal						| http://drupal.org
 - Drupal Release Date					| https://drupalreleasedate.com
 - Drupal Cores						| http://drupalcores.com
 - Drupal Events						| https://www.drupical.com
 - Drupal Usability Team					| http://drupalux.org
 *** DRUPAL LÄNDER GEMEINSCHAFTEN
-/*Portale und Webseiten der Länder Gemeinschaften.*/
+/*Portale und Webseiten der Länder Gemeinschaften*/
 **** ITALIEN
 - Drupal Italia						| http://www.drupalitalia.org
 **** FRANKREICH
@@ -55,7 +55,7 @@
 - Stuttgart & Baden-Würtemberg				| http://groups.drupal.org/stuttgart-and-badenw%C3%BCrttemberg-bw
 - Ulmx							| http://groups.drupal.org/ulm-donau
 ** DRUPAL BLOGS 
-/*Blogs von Drupal Anwendern und Agenturen.*/
+/*Blogs von Drupal Anwendern und Agenturen*/
 *** FRENCH
 - Colada						| http://www.colada.be
 - Drupalfacile						| http://www.drupalfacile.org
@@ -115,7 +115,7 @@
 - iedigital						| https://www.iedigital.co.uk/blog
 
 ** DRUPAL SOCIAL CHANNELS
-/*Social Media Kanäle für Drupal.*/
+/*Social Media Kanäle für Drupal*/
 *** FACEBOOK
 **** Facebook Suche
 - Search Drupal Groups					| https://www.facebook.com/search/groups/?q=Drupal
@@ -146,7 +146,7 @@
 - Drupal Meetups Frankreich				| http://www.meetup.com/fr-FR/topics/drupal
 
 ** DRUPAL QUESTION & ANSWER
-/*Fragen und Antworten zu Drupal.*/
+/*Fragen und Antworten zu Drupal*/
 *** DROPBUCKET
 **** Drupal
 - Hot							| http://dropbucket.org
@@ -218,7 +218,7 @@
 - Nodgard						| https://twitter.com/nodegard_com
 - Carsten Logemann					| https://twitter.com/C_Logemann
 ** DRUPAL HOSTING
-/*Anbieter für Drupal Hosting.*/
+/*Anbieter für Drupal Hosting*/
 *** HOSTING
 - Webhosting Franken					| https://www.webhosting-franken.de/apps/cms/drupal-hosting
 - Freistilbox						| http://www.freistilbox.com
@@ -228,8 +228,8 @@
 - Acquia						| https://www.acquia.com/de/produkte-dienste/acquia-cloud
 *** HOSTING ARTICLES
 - [[https://www.quora.com/GetPantheon-vs-Omega8-vs-Acquia-pros-and-cons-of-each][GetPantheon vs. Omega8 vs. Acquia - pros and cons of each?]] 
-** DRUPAL LOCAL
-/*Lokale Entwicklungs Umgebungen für Drupal.*/
+** DRUPAL LOCAL SERVER
+/*Lokale Server Entwicklungs Umgebungen für Drupal*/
 *** Docker
 - Docker for Drupal					| https://github.com/wodby/docker4drupal
   - Documentation			| https://bitnami.com/stack/drupal
@@ -240,7 +240,7 @@
 *** Acquia 
 - Acquia Desktop					| https://dev.acquia.com/downloads
 ** DRUPAL DEV TOOLS
-/*Tools die wärend der Entwicklung mit Drupal in den Einsatz kommen können.*/
+/*Tools die wärend der Entwicklung mit Drupal in den Einsatz kommen können*/
 *** Drush
 - Drush							| http://www.drush.org
   - Documentation					| http://www.drush.org/en/master/
@@ -250,12 +250,12 @@
 - Console						| https://drupalconsole.com
   - Documentation	         			| https://drupalconsole.com/docs/english
 ** DRUPAL TRAINING 
-/*Portale und Webseiten welche Drupal Schulungen anbieten.*/
+/*Portale und Webseiten welche Drupal Schulungen anbieten*/
 *** Online 
 - Drupalize.me						| https://drupalize.me
   - Blog						| https://drupalize.me/tutorials
 ** DRUPAL BOOKS
-/*Bücher für Drupal./
+/*Bücher für Drupal/
 *** Gitbook
 Drupal Media						| https://www.gitbook.com/book/drupal-media/drupal8-guide/details
 ** DRUPAL CAMP
